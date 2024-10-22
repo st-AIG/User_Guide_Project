@@ -6,6 +6,8 @@ Internet Download Manager (IDM) is a powerful tool designed to accelerate your f
 IDM is ideal for users who frequently download large files, such as videos, software, and documents, and want to ensure the most efficient and reliable downloading experience.
 
 
+![IDM](https://www.yazilimbudur.com/images/urunler/idm-internet-download-manager-1-bilgisayar-omur-boyu-suresiz-resim-340685.jpg)
+
 ## Key Features
 
 - **Accelerated Download Speeds**: IDM increases download speeds by up to 5 times by using dynamic file segmentation.
